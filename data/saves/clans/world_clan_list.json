@@ -1,0 +1,62 @@
+{
+  "patrick1": {
+    "name": "patrick1",
+    "owner": "patrick1",
+    "slogan": "None",
+    "joinable": "ANYONE",
+    "talkable": "ANYONE",
+    "kickable": "LEADER",
+    "managable": "LEADER",
+    "lootshare": false,
+    "lock": false,
+    "memberLimit": 100,
+    "ranked": {
+      "patrick1": "LEADER"
+    }
+  },
+  "clantest": {
+    "name": "clantest",
+    "owner": "clantest",
+    "slogan": "None",
+    "joinable": "ANYONE",
+    "talkable": "ANYONE",
+    "kickable": "LEADER",
+    "managable": "LEADER",
+    "lootshare": false,
+    "lock": false,
+    "memberLimit": 100,
+    "ranked": {
+      "clantest": "LEADER"
+    }
+  },
+  "sugary": {
+    "name": "sugary",
+    "owner": "sugary",
+    "slogan": "Lomfao",
+    "joinable": "ANYONE",
+    "talkable": "ANYONE",
+    "kickable": "LEADER",
+    "managable": "LEADER",
+    "lootshare": false,
+    "lock": false,
+    "memberLimit": 100,
+    "ranked": {
+      "sugary": "LEADER"
+    }
+  },
+  "help": {
+    "name": "help",
+    "owner": "help",
+    "slogan": "Hey",
+    "joinable": "ANYONE",
+    "talkable": "ANYONE",
+    "kickable": "LEADER",
+    "managable": "LEADER",
+    "lootshare": false,
+    "lock": false,
+    "memberLimit": 200,
+    "ranked": {
+      "help": "LEADER"
+    }
+  }
+}

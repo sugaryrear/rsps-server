@@ -1,0 +1,28 @@
+{
+  "npcs": [ 6615 ],
+  "guaranteed": [
+    { "id": 13307, "min": 150, "max": 200 } //Blood money
+  ],
+  "petItem": 13181,
+  "petRarity": 1000,
+  "tables": [
+    {
+      "name": "Unique",
+      "points": 1,
+      "items": [
+        { "id": 12914, "min": 5, "max": 10, "points": 45 }, //Anti-venom+(4) (noted)
+        { "id": 21979, "min": 2, "max": 10, "points": 45 }, //Super antifire potion(4) (noted)
+        { "id": 11840, "min": 1, "max": 1, "points": 35 }, //Dragon boots
+        { "id": 11920, "min": 1, "max": 1, "points": 8 }, //Dragon pickaxe
+        { "id": 11930, "min": 1, "max": 1, "points": 6 }, //Malediction ward
+        { "id": 11933, "min": 1, "max": 1, "points": 6 } //Odium ward
+      ]
+    },
+    {
+      "name": "Empty",
+      "points": 4,
+      "items": [
+      ]
+    }
+  ]
+}

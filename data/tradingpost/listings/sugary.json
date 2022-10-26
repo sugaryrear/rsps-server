@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "sugary",
+      "saleItem": {
+        "id": 11802,
+        "amount": 1
+      },
+      "price": 500,
+      "timeListed": 1651187738029,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "npcs": [
+    15030, 15032
+  ],
+  "petItem": 30338,
+  "petRarity": 2500,
+  "tables": [
+    {
+      "name": "Custom",
+      "points": 1,
+      "items": [
+        {
+          "id": 10858,
+          "min": 1,
+          "max": 1,
+          "points": 1
+        }
+        //Sword of Gryffindor
+      ]
+    },
+    {
+      "name": "Empty",
+      "points": 1999,
+      "items": [
+      ]
+    }
+  ]
+}

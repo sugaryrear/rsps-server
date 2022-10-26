@@ -1,0 +1,21 @@
+{
+  "npcs": [ 15028 ],
+  "petItem": 30342,
+  "petRarity": 2500,
+  "tables": [
+    {
+      "name": "Drops",
+      "points": 1,
+      "items": [
+        { "id": 28639, "min": 1, "max": 1, "points": 1 }, //Elder wand stick
+        { "id": 28640, "min": 1, "max": 1, "points": 1 } //Elder wand handle
+      ]
+    },
+    {
+      "name": "Empty",
+      "points": 1000,
+      "items": [
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "npcs": [ 527, 529 ],
+  "guaranteed": [
+    { "id": 526, "min": 1, "max": 1 } // bones
+  ],
+
+  "tables": [
+    {
+      "name": "Other",
+      "points": 1,
+      "items": [
+        { "id": 1033, "min": 1, "max": 1, "points": 1 } //robes of zamorak
+      ]
+    },
+    {
+      "name": "Other1",
+      "points": 1,
+      "items": [
+        { "id": 1035, "min": 1, "max": 1, "points": 1 } //robes of zamorak
+      ]
+    },
+    {
+      "name": "Other",
+      "points": 8,
+      "items": []
+    }
+  ]
+}
+

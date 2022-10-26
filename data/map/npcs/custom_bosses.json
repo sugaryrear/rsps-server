@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Corrupted Nechryarch",
+    "id": 15001,
+    "x": 1881,
+    "y": 3855,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Corrupted Nechryarch",
+    "id": 15001,
+    "x": 1871,
+    "y": 3852,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Corrupted Nechryarch",
+    "id": 15001,
+    "x": 1894,
+    "y": 3845,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Corrupted Nechryarch",
+    "id": 15001,
+    "x": 1893,
+    "y": 3858,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  }
+]

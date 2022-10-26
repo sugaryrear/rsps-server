@@ -1,0 +1,38 @@
+{
+  "npcs": [ 3129, 6495 ],
+  "petItem": 12652,
+  "petRarity": 1000,
+  "guaranteed": [
+    { "id": 13307, "min": 1500, "max": 30000 }, //blood money
+            { "id": 26362, "min": 1, "max": 1 } //frozen key zamorak
+
+  ],
+  "tables": [
+    {
+      "name": "Extra Blood Money",
+      "points": 4,
+      "items": [
+        { "id": 13307, "min": 150, "max": 300, "points": 1 } //Blood money
+      ]
+    },
+    {
+      "name": "Unique",
+      "points": 1,
+      "items": [
+        { "id": 11824, "min": 1, "max": 1, "points": 10 }, // Z spear
+        { "id": 11816, "min": 1, "max": 1, "points": 4 }, //ZGS
+        { "id": 11791, "min": 1, "max": 1, "points": 4 } ,//Staff of the dead
+        { "id": 12795, "min": 1, "max": 1, "points": 4 } ,//steam battlestaff
+        { "id": 11818, "min": 1, "max": 1, "points": 15 }, // godsword shard 1
+        { "id": 11820, "min": 1, "max": 1, "points": 15 }, // godsword shard 2
+        { "id": 11822, "min": 1, "max": 1, "points": 15 } // godsword shard 2
+
+      ]
+    },
+    {
+      "name": "Other",
+      "points": 15,
+      "items": []
+    }
+  ]
+}

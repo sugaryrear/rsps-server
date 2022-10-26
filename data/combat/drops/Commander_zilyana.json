@@ -1,0 +1,37 @@
+{
+  "npcs": [ 2205, 6493 ],
+  "petItem": 12651,
+  "petRarity": 1000,
+  "guaranteed": [
+    { "id": 13307, "min": 1500, "max": 30000}, //blood money
+            { "id": 26364, "min": 1, "max": 1 } //frozen key saradomin
+
+  ],
+  "tables": [
+    {
+      "name": "Extra Blood Money",
+      "points": 4,
+      "items": [
+        { "id": 13307, "min": 150, "max": 300, "points": 1 } //Blood money
+      ]
+    },
+    {
+      "name": "Unique",
+      "points": 1,
+      "items": [
+        { "id": 11818, "min": 1, "max": 1, "points": 15 }, // godsword shard 1
+        { "id": 11820, "min": 1, "max": 1, "points": 15 }, // godsword shard 2
+        { "id": 11822, "min": 1, "max": 1, "points": 15 }, // godsword shard 2
+        { "id": 13256, "min": 1, "max": 1, "points": 15 }, // saradomin's light
+        { "id": 11838, "min": 1, "max": 1, "points": 4 } ,//Sara sword
+        { "id": 11785, "min": 1, "max": 1, "points": 3 }, //Armadyl Crossbow
+        { "id": 11814, "min": 1, "max": 1, "points": 2 }//saradomin hilt
+      ]
+    },
+    {
+      "name": "Other",
+      "points": 15,
+      "items": []
+    }
+  ]
+}

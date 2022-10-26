@@ -1,0 +1,36 @@
+{
+  "npcs": [ 16006 ],
+  "petItem": 24986,
+  "petRarity": 1000,
+  "guaranteed": [
+    { "id": 13307, "min": 250, "max": 1000 }   //blood money
+  ],
+  "tables": [
+    {
+      "name": "Unique",
+      "points": 3,
+      "items": [
+        { "id": 16452, "min": 1, "max": 1, "points": 125 }, //Armour Box
+        { "id": 16451, "min": 1, "max": 1, "points": 121 }, //Weapon Box
+        { "id": 30185, "min": 1, "max": 1, "points": 118 } ,//Donator Box
+        { "id": 22002, "min": 1, "max": 1, "points": 115 }, //Dragonfire ward
+        { "id": 21633, "min": 1, "max": 1, "points": 115 }, //Wyvern shield
+        { "id": 13237, "min": 1, "max": 1, "points": 113 },// pegasion boots
+        { "id": 19547, "min": 1, "max": 1, "points": 110 }, //anguish
+        { "id": 11283, "min": 1, "max": 1, "points": 100 }, //dfs
+        { "id": 2944, "min": 1, "max": 1, "points": 10 } ,//Key of drops
+        { "id": 16458, "min": 1, "max": 1, "points": 10 }, //Pet Box epic
+        { "id": 20368, "min": 1, "max": 1, "points": 9 }, //ags (or)
+        { "id": 13188, "min": 1, "max": 1, "points": 9 } ,//d claws (or)
+        { "id": 24984, "min": 1, "max": 1, "points": 6 } //Ancient Faceguard
+
+
+      ]
+    },
+    {
+      "name": "Other",
+      "points": 2,
+      "items": []
+    }
+  ]
+}

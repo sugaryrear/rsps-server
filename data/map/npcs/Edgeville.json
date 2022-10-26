@@ -1,0 +1,299 @@
+[
+  {
+    "id": 2814,
+    "x": 3078,
+    "y": 3509,
+    "z": 0,
+    "radius": 2,
+    "direction": "S",
+    "desc": "BM gen store"
+  },
+  {
+    "id": 8136,
+    "x": 3096,
+    "y": 3478,
+    "z": 0,
+    "direction": "W",
+    "desc": "bosspoint store"
+  },
+  {
+    "name": "Surok Magis",
+    "id": 4159,
+    "x": 3090,
+    "y": 3499,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Wise old man",
+    "id": 2110,
+    "x": 3081,
+    "y": 3513,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "id": 13004,
+    "x": 3054,
+    "y": 3538,
+    "walkRange": 5
+  },
+  //Monk of Zamorak
+  { "id":527, "x":3022, "y": 10350,"z":0,"walkRange":6},
+  //Monk of Zamorak
+  { "id":527, "x":3032, "y": 10353,"z":0,"walkRange":6},
+  //Brother Jered
+  { "id":2578, "x":3053, "y": 3496,"z":1,"walkRange":6},
+
+  {
+    "name": "Town crier",
+    "id": 276,
+    "x": 3087,
+    "y": 3496,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Krystilia",
+    "id": 7663,
+    "x": 3108,
+    "y": 3516,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Emblem Trader",
+    "id": 308,
+    "x": 3095,
+    "y": 3503,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3,
+    "world": "ECO"
+  },
+
+  {
+    "name": "Max hit dummy",
+    "id": 2668,
+    "x": 3093,
+    "y": 3511,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "id": 3216,
+    "x": 3097,
+    "y": 3511,
+    "walkRange": 2
+  },
+  {
+    "id": 3218,
+    "x": 3094,
+    "y": 3511,
+    "walkRange": 2
+  },
+  // Magic combat tutor
+  {
+    "id": 3217,
+    "x": 3098,
+    "y": 3509,
+    "walkRange": 2
+  },
+  {
+    "name": "Donator store",
+    "id": 3095,
+    "x": 3091,
+    "y": 3494,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "PK Store",
+    "id": 11465,
+    "x": 3091,
+    "y": 3493,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Max hit dummy",
+    "id": 7413,
+    "x": 3093,
+    "y": 3509,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  //Monk of Zamorak
+  { "id":527, "x":3022, "y": 10350,"z":0,"walkRange":6},
+  //Monk of Zamorak
+  { "id":527, "x":3032, "y": 10353,"z":0,"walkRange":6},
+  //Brother Jered
+  { "id":2578, "x":3053, "y": 3496,"z":1,"walkRange":6},
+  //Skeleton
+  { "id":70, "x":3109, "y": 3533,"z":0,"walkRange":6},
+  //Skeleton
+  { "id":70, "x":3102, "y": 3532,"z":0,"walkRange":6},
+  //Skeleton
+  { "id":70, "x":3102, "y": 3554,"z":0,"walkRange":6},
+  //Skeleton
+  { "id":70, "x":3106, "y": 3563,"z":0,"walkRange":6},
+  //Skeleton
+  { "id":70, "x":3083, "y": 3545,"z":0,"walkRange":6},
+  //Skeleton
+  { "id":70, "x":3079, "y": 3538,"z":0,"walkRange":6},
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 3096,
+    "y": 3489,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 3096,
+    "y": 3491,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 3096,
+    "y": 3492,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 3098,
+    "y": 3492,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+
+
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 3285,
+    "y": 9443,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+
+  {
+    "name": "Monk",
+    "id": 2579,
+    "x": 3050,
+    "y": 3492,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Chicken",
+    "id": 2804,
+    "x": 3050,
+    "y": 3516,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ram",
+    "id": 1265,
+    "x": 3052,
+    "y": 3517,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rooster",
+    "id": 2803,
+    "x": 3053,
+    "y": 3517,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monk",
+    "id": 2579,
+    "x": 3053,
+    "y": 3491,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 2804,
+    "x": 3054,
+    "y": 3516,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abbot Langley",
+    "id": 2577,
+    "x": 3057,
+    "y": 3484,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 3036,
+    "y": 3505,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Monk",
+    "id": 2579,
+    "x": 3046,
+    "y": 3484,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Monk",
+    "id": 2579,
+    "x": 3045,
+    "y": 3496,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Brother Althric",
+    "id": 1397,
+    "x": 3048,
+    "y": 3506,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  }
+]

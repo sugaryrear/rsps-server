@@ -1,0 +1,44 @@
+{
+  "npcs": [ 16008 ],
+  "guaranteed": [
+    { "id": 592, "min": 1, "max": 1 }, //Ashes
+    { "id": 13307, "min": 1000, "max": 2000 } //Blood money
+  ],
+  "PVPWorld": true,
+  "petItem": 27000,
+  "petRarity": 2500,
+  "tables": [
+    {
+      "name": "Unique",
+      "points": 1,
+      "items": [
+        { "id": 24999, "min": 1, "max": 1, "points": 54 }, //blood money casket
+        { "id": 16451, "min": 1, "max": 1, "points": 51 }, //weapon mystery box
+        { "id": 16452, "min": 1, "max": 1, "points": 51 }, //armour mysterybox
+        { "id": 6586, "min": 1, "max": 6, "points": 50 }, //noted fury
+        { "id": 14901, "min": 1, "max": 1, "points": 30 }, //larrans key III
+        { "id": 13239, "min": 1, "max": 1, "points": 30 }, //primordial boots
+        { "id": 13237, "min": 1, "max": 1, "points": 30 }, //pegasian boots
+        { "id": 13235, "min": 1, "max": 1, "points": 30 }, //eternal boots
+        { "id": 30185, "min": 1, "max": 1, "points": 25 }, //donator mystery box
+        { "id": 13263, "min": 1, "max": 1, "points": 25 }, //abyssal bludgeon
+        { "id": 13233, "min": 1, "max": 1, "points": 10 }, //smouldering stone
+        { "id": 16454, "min": 1, "max": 1, "points": 9 }, //legendary mystery box
+        { "id": 22517, "min": 15, "max": 50, "points": 9 }, //saeldor shards
+        { "id": 2944, "min": 1, "max": 1, "points": 7 }, //key of drops
+        { "id": 30038, "min": 1, "max": 1, "points": 6 }, //primordial boots(or)
+        { "id": 30180, "min": 1, "max": 1, "points": 6 }, //pegasian boots(or)
+        { "id": 30182, "min": 1, "max": 1, "points": 6 }, //ethernal boots(or)
+        { "id": 3325, "min": 1, "max": 1, "points": 6 }, //vampire dust
+        { "id": 16458, "min": 1, "max": 1, "points": 5 }, //epic pet mystery box
+        { "id": 25936, "min": 1, "max": 1, "points": 2 } //pharaos hilt
+      ]
+    },
+    {
+      "name": "Empty",
+      "points": 7,
+      "items": [
+      ]
+    }
+  ]
+}
